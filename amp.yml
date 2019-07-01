@@ -17,4 +17,4 @@
     - name: " php-mysql"
       package: name=php-mysql state=present
     - name: " Install mysql server"
-      package: name=mysql-server state=present
+      package: name=mysql state=present
